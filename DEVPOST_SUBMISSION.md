@@ -1,11 +1,11 @@
 # RepoGhost — Devpost Submission Draft (Kiroween 2026, Resurrection)
 
-Status: DRAFT — video link still missing. Fill `VIDEO_URL` after the demo is recorded, then submit.
+Status: READY — video link filled 2026-11-26 02:03. Submit on Devpost.
 
 ## Links
 - App: https://tianpeiqing5-dotcom.github.io/repoghost/
 - Repo: https://github.com/tianpeiqing5-dotcom/repoghost
-- Video: VIDEO_URL (must be public YouTube, under 3 minutes)
+- Video: https://www.youtube.com/watch?v=K6jbEuo7LYQ (public, 68.6 seconds)
 
 ## Category
 Resurrection — reviving dead code.
